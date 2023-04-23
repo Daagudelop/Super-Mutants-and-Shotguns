@@ -6,6 +6,7 @@ TagManager:
   tags:
   - TeamMate
   - Enemy
+  - StartPoint
   layers:
   - Default
   - TransparentFX
